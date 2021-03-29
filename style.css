@@ -1,0 +1,24 @@
+body{
+    background-color:cornsilk;
+}
+h1{
+    color: blue;
+    text-decoration: underline;
+    text-align: center;
+    text-transform: uppercase;
+}
+p{
+    color: blue;
+    text-transform: capitalize;
+    font-family: 'Courier New', Courier, monospace;
+}
+q{
+    font-size: 50px;
+    font-weight:  bolder;
+} 
+img{
+    float: right;
+    margin-bottom: 50px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
