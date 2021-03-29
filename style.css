@@ -2,14 +2,14 @@ body{
     background-color:darkcyan;
 }
 h1{
-    color:chocolate;
+    color:red;
     text-decoration: underline;
     text-align: center;
     text-transform: uppercase;
     
 }
 h2{
-    color:chocolate;
+    color:red;
     text-decoration: underline;
     text-align: center;
     text-transform: uppercase;
@@ -23,7 +23,7 @@ p{
 q{
     font-size: 50px;
     font-weight:  bolder;
-    text-align: center;
+    float: center;
     color: rgb(155, 10, 82);
 } 
 img{
