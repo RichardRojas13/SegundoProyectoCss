@@ -1,5 +1,5 @@
 body{
-    background-color:cornsilk;
+    background-color:darkcyan;
 }
 h1{
     color:chocolate;
@@ -15,7 +15,7 @@ h2{
     text-transform: uppercase;
 }
 p{
-    color:cornflowerblue;
+    color:rgb(155, 10, 82);
     text-transform: capitalize;
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
@@ -24,7 +24,7 @@ q{
     font-size: 50px;
     font-weight:  bolder;
     text-align: center;
-    color: cornflowerblue;
+    color: rgb(155, 10, 82);
 } 
 img{
     float: right;
