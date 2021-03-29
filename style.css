@@ -20,14 +20,8 @@ p{
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
 }
-q{
-    font-size: 50px;
-    font-weight:  bolder;
-    float: center;
-    color: rgb(155, 10, 82);
-} 
 img{
-    float: right;
+    float: center;
     margin-bottom: 50px;
     margin-right: 20px;
     margin-left: 20px;
