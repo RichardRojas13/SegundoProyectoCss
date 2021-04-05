@@ -1,28 +1,23 @@
-body{
-    background-color:darkcyan;
-}
 h1{
-    color:red;
-    text-decoration: underline;
-    text-align: center;
-    text-transform: uppercase;
-    
+    color: tomato;
 }
-h2{
-    color:red;
-    text-decoration: underline;
-    text-align: center;
-    text-transform: uppercase;
-}
-p{
-    color:rgb(155, 10, 82);
-    text-transform: capitalize;
-    font-family: 'Courier New', Courier, monospace;
+
+#intro{
+    background-color: antiquewhite;
     text-align: center;
 }
-img{
-    float: center;
-    margin-bottom: 50px;
-    margin-right: 20px;
-    margin-left: 20px;
+
+#team{
+    background-color: aquamarine;
+}
+#rescue{
+    background-color: rgb(181, 197, 168);    
+}
+
+.morado{
+    color: purple;
+}
+
+.relleno{
+    padding: 20px;
 }
