@@ -9,9 +9,11 @@ h1{
 
 #team{
     background-color: aquamarine;
+    text-align: center;
 }
 #rescue{
-    background-color: rgb(181, 197, 168);    
+    background-color: rgb(181, 197, 168);
+    text-align: center;    
 }
 
 .morado{
